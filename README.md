@@ -4,21 +4,21 @@
 ![alt text](image.png)
 ## SQL
 - Data quality
- - Checking data intergrity, missing records and table relationships.
+   - Checking data intergrity, missing records and table relationships.
 - Sales Analysis
- - Revenue trends, monthly sales performance, order volumes and average order value.
+   - Revenue trends, monthly sales performance, order volumes and average order value.
 - Customer Analysis
- - Customer purchasing behaviour and engagement.
+   - Customer purchasing behaviour and engagement.
 - Product & Category Analysis
- - Best-selling products and top revenue-generating categories.
+   - Best-selling products and top revenue-generating categories.
 - Store Performance
- - Comparing sales across stores and cities.
+   - Comparing sales across stores and cities.
 - Supplier Analysis
- - Supplier product distribution and revenue contribution.
+   - Supplier product distribution and revenue contribution.
 - Promotions & Discounts
- - Exploring promotional performance and effect of discounts on total revenue.
+   - Exploring promotional performance and effect of discounts on total revenue.
 - Returns Analysis
- - Investigating product returns and their impact on revenue.
+   - Investigating product returns and their impact on revenue.
 ## Tools and technologies
 - Query language - SQL
 - Database - PostegreSQL
